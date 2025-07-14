@@ -8,15 +8,15 @@ This project showcases a dynamic **Excel-based dashboard** designed to visualize
 
 ## Table of Contents
 
-- [Project Description](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/edit/main/README.md#project-description)
-- [Dataset](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/edit/main/README.md#dataset)
-- [Key Features](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/edit/main/README.md#key-features)
-- [Tools & Skills Used](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/edit/main/README.md#tools--skills-used))
-- [Snapshot](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/edit/main/README.md#-snapshot)
-- [Insights & Recommendations](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/edit/main/README.md#insights--recommendations))
-- [How to Use](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/edit/main/README.md#how-to-use)
-- [Author](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/edit/main/README.md#author))
-- [Feedback & Contributions](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/edit/main/README.md#-feedback--contributions))
+- [Project Description](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/blob/main/README.md#project-description)
+- [Dataset](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/blob/main/README.md#dataset)
+- [Key Features](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/blob/main/README.md#key-features)
+- [Tools & Skills Used](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/blob/main/README.md#tools--skills-used))
+- [Snapshot](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/blob/main/README.md#-snapshot)
+- [Insights & Recommendations](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/blob/main/README.md#insights--recommendations))
+- [How to Use](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/blob/main/README.md#how-to-use)
+- [Author](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/blob/main/README.md#author))
+- [Feedback & Contributions](https://github.com/Honour00/Coca-Cola-Retailer-Analysis/blob/main/README.md#-feedback--contributions))
 
 ---
 ##  Project Description
